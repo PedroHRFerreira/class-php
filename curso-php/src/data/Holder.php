@@ -1,6 +1,6 @@
 <?php
-require "../src/data/CPF.php";
-require "../src/data/Address.php";
+require "../curso-php/src/data/CPF.php";
+require "../curso-php/src/data/Address.php";
 
 class Holder
 {
