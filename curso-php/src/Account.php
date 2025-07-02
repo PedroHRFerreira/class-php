@@ -1,5 +1,5 @@
 <?php
-require "../curso-php/src/data/Holder.php";
+require __DIR__ . '/data/Holder.php';
 
 class Account
 {

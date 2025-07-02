@@ -1,5 +1,5 @@
 <?php
-require '../curso-php/src/Account.php';
+require __DIR__ . '/Account.php';
 
 $endereco = new Address('Rua das Flores', '123', 'Centro', 'São Paulo');
 
